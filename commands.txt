@@ -1,12 +1,12 @@
-pwd -- print working directory
+* pwd -- print working directory
 	> displays your current directory location
-cd [loc] -- change directory
+* cd [loc] -- change directory
 	> allows you to move throughout your computer
-mkdir [folder name] --make directory
+* mkdir [folder name] --make directory
 	>creates a new folder in the current directory
-ls -- displays the contents of your current directory
-touch [filename] --creates a new file in the current directory
-rm [filename] --deleting/removing a file
+* ls -- displays the contents of your current directory
+* touch [filename] --creates a new file in the current directory
+* rm [filename] --deleting/removing a file
 
 ----
 
@@ -37,3 +37,9 @@ Repository --like a folder/container that stores files/folders related to a proj
 
 * git status 
 	--displays the current status of your file/folder
+
+* git log 
+	--displays all the commits that were made
+
+* git log -- oneline
+	--condensed version of the git log
